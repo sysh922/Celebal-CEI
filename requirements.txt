@@ -1,5 +1,0 @@
-streamlit
-pandas
-plotly
-databricks-sql-connector
-pyarrow
