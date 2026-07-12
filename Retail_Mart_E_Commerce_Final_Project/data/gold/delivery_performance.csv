@@ -1,0 +1,6 @@
+order_status,total_orders,avg_delivery_days,fastest_delivery,slowest_delivery
+invoiced,6421,,,
+processing,6132,,,
+shipped,6288,,,
+cancelled,6193,,,
+delivered,24966,10.091444364335496,3,30

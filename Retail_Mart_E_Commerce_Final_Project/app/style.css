@@ -1,0 +1,190 @@
+/* =====================================================
+   RetailMart Analytics Dashboard
+   Author : Shivanshu Yadav
+======================================================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+html,
+body,
+[class*="css"]{
+    font-family:'Poppins',sans-serif;
+}
+
+/* Hide Streamlit Branding */
+
+#MainMenu{
+    visibility:hidden;
+}
+
+footer{
+    visibility:hidden;
+}
+
+header{
+    visibility:hidden;
+}
+
+/* Main Background */
+
+.stApp{
+
+    background:#F4F7FB;
+
+}
+
+/* Sidebar */
+
+section[data-testid="stSidebar"]{
+
+    background:#111827;
+
+    color:white;
+
+}
+
+section[data-testid="stSidebar"] *{
+
+    color:white;
+
+}
+
+/* Dashboard Title */
+
+.dashboard-title{
+
+    font-size:38px;
+
+    font-weight:700;
+
+    color:#111827;
+
+}
+
+.dashboard-subtitle{
+
+    color:#6B7280;
+
+    margin-top:-10px;
+
+    margin-bottom:25px;
+
+}
+
+/* KPI Cards */
+
+.metric-card{
+
+    background:white;
+
+    padding:22px;
+
+    border-radius:18px;
+
+    box-shadow:0px 8px 20px rgba(0,0,0,0.08);
+
+    transition:0.3s;
+
+}
+
+.metric-card:hover{
+
+    transform:translateY(-5px);
+
+}
+
+.metric-title{
+
+    font-size:15px;
+
+    color:#6B7280;
+
+}
+
+.metric-value{
+
+    font-size:30px;
+
+    font-weight:bold;
+
+    color:#111827;
+
+}
+
+/* Section */
+
+.section-title{
+
+    font-size:24px;
+
+    font-weight:600;
+
+    color:#111827;
+
+    margin-top:25px;
+
+    margin-bottom:10px;
+
+}
+
+/* Chart */
+
+.element-container{
+
+    border-radius:18px;
+
+}
+
+/* DataFrame */
+
+[data-testid="stDataFrame"]{
+
+    border-radius:18px;
+
+}
+
+/* Buttons */
+
+.stButton>button{
+
+    width:100%;
+
+    border-radius:10px;
+
+    border:none;
+
+    background:#2563EB;
+
+    color:white;
+
+    font-weight:600;
+
+}
+
+.stButton>button:hover{
+
+    background:#1D4ED8;
+
+}
+
+/* Download */
+
+.stDownloadButton>button{
+
+    border-radius:10px;
+
+    background:#059669;
+
+    color:white;
+
+    font-weight:600;
+
+    border:none;
+
+}
+
+.stDownloadButton>button:hover{
+
+    background:#047857;
+
+}
