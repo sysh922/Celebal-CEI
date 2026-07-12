@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+1,Data Science,Books,Democrat,695.78
+2,Headphones,Electronics,Girl,860.75
+3,Data Science,Books,Guy,888.56
+4,Python,Books,Share,242.42
+5,Table,Home,Teach,439.63
+6,Laptop,Electronics,Pm,697.06
+7,Laptop,Electronics,Box,65.56
+8,Sofa,Home,Matter,251.76
+9,SQL,Books,Management,88.18
+10,SQL,Books,He,587.33
+11,Shoes,Clothing,Glass,464.97
+12,Monitor,Electronics,Society,680.83
+13,T Shirt,Clothing,Thousand,352.11
+14,Lamp,Home,Avoid,462.27
+15,Table,Home,Cover,854.8
+16,Phone,Electronics,Despite,365.37
+17,   SOFA   ,Home,Alone,831.74
+18,   DATA SCIENCE   ,Books,Make,866.42
+19,Camera,Electronics,Security,834.51
+20,Table,Home,Lead,358.8
+21,Jacket,Clothing,Would,723.72
+22,T Shirt,Clothing,Evening,649.88
+23,   LAMP   ,Home,Long,371.21
+24,T Shirt,Clothing,Prepare,333.45
+25,SQL,Books,Central,788.65
+26,Sofa,Home,After,264.4
+27,Data Science,Books,Question,345.33
+28,Monitor,Electronics,Military,149.35
+29,Shoes,Clothing,Speak,806.54
+30,Chair,Home,The,23.78
+31,Monitor,Electronics,That,751.52
+32,Lamp,Home,Different,940.89
+33,Phone,Electronics,Who,623.35
+34,Table,Home,Around,639.05
+35,Data Science,Books,Give,125.51
+36,Laptop,Electronics,Back,497.7
+37,Phone,Electronics,Message,144.31
+38,Data Science,Books,Thought,745.71
+39,SQL,Books,Pick,658.37
+40,AI,Books,World,286.94
+41,Table,Home,College,951.05
+42,Chair,Home,Hair,373.66
+43,Chair,Home,Result,197.91
+44,Monitor,Electronics,Piece,219.98
+45,Laptop,Electronics,Organization,251.13
+46,Jeans,Clothing,Statement,767.51
+47,Jeans,Clothing,Hope,240.67
+48,T Shirt,Clothing,Mention,984.19
+49,Jacket,Clothing,Animal,118.83
+50,   PHONE   ,Electronics,To,792.08
+51,   JACKET   ,Clothing,Reduce,272.71
+52,Shoes,Clothing,Receive,748.21
+53,AI,Books,Leg,518.11
+54,Monitor,Electronics,Pattern,945.96
+55,Camera,Electronics,Range,646.91
+56,Laptop,Electronics,Red,848.83
+57,Python,Books,Event,910.6
+58,Laptop,Electronics,Heavy,156.85
+59,Jacket,Clothing,Task,589.51
+60,Lamp,Home,Its,535.25
+61,AI,Books,Line,704.76
+62,Shoes,Clothing,Exactly,236.21
+63,Lamp,Home,Seven,732.32
+64,Lamp,Home,Movement,262.34
+65,Shoes,Clothing,Girl,833.45
+66,Monitor,Electronics,Wonder,741.41
+67,T Shirt,Clothing,May,565.97
+68,Chair,Home,Five,874.87
+69,Python,Books,Town,604.41
+70,Chair,Home,Whether,220.61
+71,SQL,Books,Care,356.61
+72,Chair,Home,Beyond,578.36
+73,Python,Books,Money,661.25
+74,Chair,Home,Everybody,705.67
+75,Sofa,Home,Inside,189.59
+76,Shoes,Clothing,None,743.56
+77,Laptop,Electronics,Mouth,222.98
+78,AI,Books,Assume,376.35
+79,Chair,Home,Total,164.02
+80,Laptop,Electronics,Street,665.32
+81,AI,Books,Network,223.41
+82,Headphones,Electronics,Against,290.41
+83,   DATA SCIENCE   ,Books,So,401.31
+84,Laptop,Electronics,Successful,945.87
+85,Jacket,Clothing,Plant,128.78
+86,AI,Books,Mrs,386.41
+87,Jacket,Clothing,Lawyer,863.15
+88,   MONITOR   ,Electronics,Trip,921.95
+89,Lamp,Home,On,712.4
+90,Data Science,Books,Matter,30.65
+91,Table,Home,One,621.94
+92,Chair,Home,Treatment,114.8
+93,AI,Books,Simply,401.81
+94,Sofa,Home,Catch,781.33
+95,Camera,Electronics,Build,535.3
+96,Jacket,Clothing,Only,958.64
+97,Jeans,Clothing,Language,263.41
+98,Jeans,Clothing,Consider,658.95
+99,Shoes,Clothing,Author,568.1
+100,Data Science,Books,Marriage,630.95
+101,Shoes,Clothing,About,447.79
+102,Sofa,Home,Clearly,358.42
+103,Headphones,Electronics,Test,47.23
+104,Sofa,Home,Agree,865.61
+105,Camera,Electronics,Probably,390.64
+106,Monitor,Electronics,Very,575.94
+107,Jacket,Clothing,Serious,506.35
+108,Monitor,Electronics,Painting,900.14
+109,Chair,Home,List,180.83
+110,Shoes,Clothing,Production,528.83
+111,Jacket,Clothing,Enjoy,290.06
+112,Data Science,Books,Lay,61.84
+113,Chair,Home,Expert,562.38
+114,Data Science,Books,Particularly,853.05
+115,Jacket,Clothing,Reduce,666.98
+116,Sofa,Home,Guy,701.5
+117,SQL,Books,Collection,938.62
+118,Lamp,Home,Argue,335.19
+119,T Shirt,Clothing,Improve,429.17
+120,Chair,Home,Place,188.46
+121,Jacket,Clothing,Road,491.41
+122,Jeans,Clothing,Government,302.83
+123,Camera,Electronics,Shoulder,836.77
+124,Headphones,Electronics,Speak,621.85
+125,SQL,Books,Clearly,833.03
+126,   SHOES   ,Clothing,Home,370.66
+127,Shoes,Clothing,Others,754.87
+128,SQL,Books,Turn,316.37
+129,SQL,Books,Watch,947.66
+130,AI,Books,Forget,780.34
+131,SQL,Books,Catch,803.25
+132,Jacket,Clothing,Former,485.78
+133,Chair,Home,Knowledge,520.75
+134,Headphones,Electronics,Cost,168.71
+135,SQL,Books,Class,100.8
+136,Shoes,Clothing,Forget,931.17
+137,Python,Books,Hotel,380.22
+138,Python,Books,Example,37.91
+139,Headphones,Electronics,Kind,146.22
+140,Lamp,Home,Present,147.4
+141,AI,Books,Glass,906.8
+142,Headphones,Electronics,Somebody,158.02
+143,Python,Books,Follow,245.26
+144,Laptop,Electronics,Audience,642.56
+145,Python,Books,View,906.1
+146,Camera,Electronics,None,721.36
+147,   LAMP   ,Home,Adult,359.29
+148,SQL,Books,Financial,94.76
+149,Chair,Home,Increase,548.64
+150,Monitor,Electronics,Drop,53.1
+151,Data Science,Books,Use,26.08
+152,Headphones,Electronics,Prove,660.53
+153,Camera,Electronics,Hear,339.19
+154,Headphones,Electronics,Different,815.37
+155,Shoes,Clothing,Possible,483.75
+156,Jeans,Clothing,Lose,778.43
+157,Python,Books,Really,53.37
+158,T Shirt,Clothing,Put,316.98
+159,AI,Books,Girl,755.76
+160,Jacket,Clothing,Test,783.03
+161,Sofa,Home,Mention,374.34
+162,AI,Books,Section,392.78
+163,Shoes,Clothing,Fine,373.67
+164,Chair,Home,Write,88.14
+165,Jacket,Clothing,Late,89.27
+166,Sofa,Home,However,720.49
+167,Shoes,Clothing,Fact,51.93
+168,Lamp,Home,Yet,980.23
+169,Laptop,Electronics,Fact,412.15
+170,T Shirt,Clothing,Year,611.5
+171,Python,Books,Leave,243.64
+172,Sofa,Home,Physical,571.57
+173,Shoes,Clothing,Manager,378.29
+174,Camera,Electronics,Interview,373.28
+175,Sofa,Home,Tax,122.31
+176,Shoes,Clothing,Sea,914.41
+177,Headphones,Electronics,Live,707.0
+178,Jacket,Clothing,Whatever,998.64
+179,T Shirt,Clothing,Machine,83.31
+180,Shoes,Clothing,Likely,812.41
+181,Sofa,Home,Ball,554.5
+182,Sofa,Home,Cost,714.69
+183,Jacket,Clothing,Bring,130.15
+184,Jeans,Clothing,Sense,499.08
+185,Sofa,Home,Four,983.18
+186,T Shirt,Clothing,Owner,404.18
+187,AI,Books,Test,825.11
+188,Phone,Electronics,Set,645.92
+189,AI,Books,Black,351.07
+190,Jeans,Clothing,Protect,911.61
+191,Laptop,Electronics,Office,311.08
+192,Jacket,Clothing,Rate,233.22
+193,Chair,Home,North,638.71
+194,Table,Home,Book,618.28
+195,Camera,Electronics,Soon,595.89
+196,Jeans,Clothing,Paper,723.43
+197,Chair,Home,Less,38.09
+198,Camera,Electronics,Car,218.7
+199,Python,Books,Actually,630.89
+200,Sofa,Home,Above,806.64
+201,Data Science,Books,Child,691.73
+202,Shoes,Clothing,You,469.8
+203,Table,Home,More,721.18
+204,Lamp,Home,Turn,376.83
+205,Headphones,Electronics,Phone,131.3
+206,SQL,Books,Court,60.1
+207,AI,Books,Black,866.65
+208,Jacket,Clothing,Professor,723.92
+209,Jeans,Clothing,Crime,519.58
+210,Data Science,Books,Gas,99.15
+211,AI,Books,Expert,222.99
+212,Chair,Home,Thing,499.95
+213,Data Science,Books,Purpose,848.7
+214,SQL,Books,Official,730.23
+215,   DATA SCIENCE   ,Books,Already,60.65
+216,Jacket,Clothing,Read,82.8
+217,Data Science,Books,Response,627.01
+218,Phone,Electronics,Market,399.96
+219,Sofa,Home,Able,207.07
+220,   PYTHON   ,Books,Hot,145.67
+221,Lamp,Home,Heart,157.45
+222,Jacket,Clothing,Drive,325.34
+223,Data Science,Books,Sense,512.24
+224,Data Science,Books,Thing,26.47
+225,Chair,Home,Stuff,587.87
+226,Camera,Electronics,Together,967.4
+227,T Shirt,Clothing,Write,178.81
+228,SQL,Books,Chance,249.77
+229,   PHONE   ,Electronics,Line,320.56
+230,Shoes,Clothing,Others,416.27
+231,Python,Books,Explain,523.5
+232,Lamp,Home,Work,320.62
+233,Shoes,Clothing,Run,348.9
+234,Sofa,Home,Who,200.34
+235,Jacket,Clothing,Order,232.62
+236,Sofa,Home,Represent,693.34
+237,Data Science,Books,Common,564.88
+238,Sofa,Home,Change,679.86
+239,AI,Books,Necessary,955.06
+240,   JACKET   ,Clothing,Play,955.76
+241,Headphones,Electronics,Past,659.41
+242,SQL,Books,Which,543.19
+243,Table,Home,Real,743.48
+244,Jeans,Clothing,Church,906.13
+245,Jeans,Clothing,Our,419.17
+246,Python,Books,Wrong,146.09
+247,Shoes,Clothing,Remember,881.84
+248,AI,Books,Republican,758.35
+249,Sofa,Home,Certainly,68.57
+250,Camera,Electronics,State,741.3
+251,Phone,Electronics,Service,839.23
+252,Monitor,Electronics,Finally,194.45
+253,   CHAIR   ,Home,Able,572.28
+254,Headphones,Electronics,Style,989.21
+255,SQL,Books,Their,473.34
+256,T Shirt,Clothing,Early,733.81
+257,   TABLE   ,Home,Minute,343.74
+258,Table,Home,Direction,857.59
+259,AI,Books,Line,95.87
+260,Phone,Electronics,Toward,482.68
+261,T Shirt,Clothing,Foot,243.17
+262,Sofa,Home,Customer,725.65
+263,Headphones,Electronics,Decide,695.84
+264,Laptop,Electronics,Community,168.12
+265,Chair,Home,Point,941.23
+266,Table,Home,Loss,142.23
+267,Shoes,Clothing,School,609.68
+268,AI,Books,Blood,803.98
+269,Jeans,Clothing,Former,599.86
+270,Camera,Electronics,Magazine,706.73
+271,Camera,Electronics,Another,830.49
+272,Jeans,Clothing,Throughout,855.94
+273,Python,Books,Pick,719.75
+274,Python,Books,Daughter,451.03
+275,Monitor,Electronics,Just,421.27
+276,Camera,Electronics,Mr,808.85
+277,Monitor,Electronics,Learn,12.99
+278,   T SHIRT   ,Clothing,Form,351.08
+279,Camera,Electronics,True,935.24
+280,   MONITOR   ,Electronics,Image,414.78
+281,Shoes,Clothing,Man,892.42
+282,AI,Books,Meet,685.9
+283,Jacket,Clothing,Operation,992.92
+284,SQL,Books,Dream,230.46
+285,Laptop,Electronics,Decide,468.37
+286,AI,Books,Check,255.04
+287,Table,Home,Card,938.04
+288,Laptop,Electronics,Nearly,425.05
+289,Phone,Electronics,Brother,109.89
+290,Monitor,Electronics,Culture,706.25
+291,Phone,Electronics,Add,408.24
+292,Jeans,Clothing,Check,778.3
+293,Jacket,Clothing,Strategy,917.23
+294,Sofa,Home,Beat,877.5
+295,Shoes,Clothing,Southern,70.35
+296,Shoes,Clothing,North,56.42
+297,Lamp,Home,Soon,325.55
+298,AI,Books,Chair,382.7
+299,SQL,Books,Assume,307.73
+300,Shoes,Clothing,Pay,566.76
+301,SQL,Books,Instead,262.45
+302,Chair,Home,Officer,848.66
+303,Camera,Electronics,Yard,198.58
+304,Lamp,Home,Road,606.89
+305,Phone,Electronics,Answer,591.71
+306,Shoes,Clothing,Continue,907.96
+307,Chair,Home,Serious,198.12
+308,Monitor,Electronics,Security,698.67
+309,Shoes,Clothing,General,556.56
+310,Lamp,Home,Will,652.23
+311,Sofa,Home,Beat,883.98
+312,Python,Books,Wall,725.19
+313,Table,Home,Decade,419.79
+314,   JEANS   ,Clothing,Run,557.78
+315,Data Science,Books,Evening,336.57
+316,SQL,Books,Either,658.06
+317,Sofa,Home,Local,493.73
+318,AI,Books,Attack,797.03
+319,Jeans,Clothing,Street,493.43
+320,   CAMERA   ,Electronics,Represent,848.23
+321,Laptop,Electronics,Leg,844.12
+322,T Shirt,Clothing,Determine,19.05
+323,Data Science,Books,Morning,641.35
+324,   AI   ,Books,Deep,536.89
+325,   PYTHON   ,Books,Traditional,724.97
+326,Chair,Home,Draw,700.88
+327,SQL,Books,Beautiful,105.35
+328,Jeans,Clothing,Use,531.19
+329,Sofa,Home,Create,88.23
+330,AI,Books,As,990.33
+331,Jacket,Clothing,Peace,849.39
+332,Laptop,Electronics,Right,383.4
+333,Python,Books,Beautiful,705.82
+334,Monitor,Electronics,Identify,648.46
+335,Chair,Home,My,919.96
+336,Jeans,Clothing,Note,695.36
+337,   DATA SCIENCE   ,Books,Discussion,83.6
+338,Chair,Home,Hold,851.92
+339,Phone,Electronics,Fish,754.73
+340,Python,Books,Opportunity,568.32
+341,Data Science,Books,Star,742.35
+342,Camera,Electronics,Reflect,352.4
+343,Monitor,Electronics,Else,85.26
+344,   DATA SCIENCE   ,Books,If,280.59
+345,AI,Books,Tonight,557.51
+346,AI,Books,Property,590.02
+347,Python,Books,Learn,302.43
+348,T Shirt,Clothing,Indeed,162.68
+349,Shoes,Clothing,Own,115.49
+350,Headphones,Electronics,Best,763.73
+351,Phone,Electronics,Dinner,436.67
+352,   PYTHON   ,Books,Career,360.38
+353,Camera,Electronics,Picture,331.19
+354,Python,Books,Message,393.92
+355,Camera,Electronics,Care,978.39
+356,Shoes,Clothing,Option,276.23
+357,Lamp,Home,Skill,175.54
+358,Lamp,Home,Various,784.84
+359,Sofa,Home,Despite,723.69
+360,SQL,Books,Actually,144.13
+361,Monitor,Electronics,Lot,623.99
+362,Lamp,Home,If,817.32
+363,Jacket,Clothing,Hot,947.81
+364,Shoes,Clothing,Total,964.93
+365,Sofa,Home,Herself,636.57
+366,Jacket,Clothing,Artist,818.33
+367,Data Science,Books,Among,568.21
+368,T Shirt,Clothing,Act,467.01
+369,Shoes,Clothing,Again,832.97
+370,Monitor,Electronics,Drive,147.79
+371,Table,Home,Rule,162.6
+372,AI,Books,Best,990.79
+373,AI,Books,Fish,924.26
+374,Python,Books,Commercial,365.93
+375,Laptop,Electronics,Crime,661.03
+376,Table,Home,Determine,53.85
+377,Data Science,Books,Reduce,436.15
+378,Laptop,Electronics,Expert,515.57
+379,Shoes,Clothing,Discussion,468.43
+380,Jacket,Clothing,Manager,487.94
+381,Lamp,Home,Happy,95.0
+382,Jacket,Clothing,Personal,460.78
+383,Shoes,Clothing,Structure,106.65
+384,Data Science,Books,Bed,54.24
+385,Laptop,Electronics,Clearly,651.49
+386,Jeans,Clothing,Outside,556.39
+387,Lamp,Home,Page,239.54
+388,SQL,Books,Try,660.73
+389,Python,Books,Affect,884.27
+390,AI,Books,Perhaps,707.69
+391,Jacket,Clothing,Difficult,810.64
+392,Camera,Electronics,Middle,873.26
+393,Jacket,Clothing,Professor,462.97
+394,Lamp,Home,Grow,642.72
+395,AI,Books,Cover,354.45
+396,SQL,Books,Really,708.93
+397,Chair,Home,Respond,320.05
+398,Jacket,Clothing,Usually,379.57
+399,Shoes,Clothing,Plan,146.49
+400,AI,Books,Staff,639.15
+401,Jeans,Clothing,Civil,148.89
+402,Lamp,Home,Program,866.87
+403,Monitor,Electronics,Heavy,817.06
+404,AI,Books,Receive,421.47
+405,AI,Books,Serve,569.74
+406,   JACKET   ,Clothing,Institution,232.59
+407,Table,Home,Entire,569.99
+408,Python,Books,Everybody,275.21
+409,Chair,Home,Minute,446.95
+410,Shoes,Clothing,Work,831.77
+411,Jacket,Clothing,No,41.91
+412,Sofa,Home,Understand,96.11
+413,Phone,Electronics,Determine,740.24
+414,Lamp,Home,Year,147.84
+415,Jeans,Clothing,Raise,574.37
+416,Table,Home,Worker,707.01
+417,Sofa,Home,Example,519.27
+418,Phone,Electronics,Hard,787.83
+419,Headphones,Electronics,Continue,135.62
+420,Jeans,Clothing,Together,328.88
+421,Shoes,Clothing,Number,581.65
+422,Lamp,Home,Also,84.76
+423,Monitor,Electronics,Fill,285.44
+424,Lamp,Home,Article,334.02
+425,Laptop,Electronics,Want,463.86
+426,Chair,Home,Health,403.74
+427,SQL,Books,Power,329.64
+428,Sofa,Home,Surface,139.29
+429,Data Science,Books,Realize,764.63
+430,Laptop,Electronics,Door,838.34
+431,Laptop,Electronics,Around,166.4
+432,Python,Books,Better,433.52
+433,Jacket,Clothing,Heart,933.4
+434,Chair,Home,Tree,257.89
+435,Table,Home,Century,629.35
+436,Shoes,Clothing,Like,706.66
+437,Phone,Electronics,Bar,141.37
+438,   SHOES   ,Clothing,Long,698.64
+439,Monitor,Electronics,Everything,482.92
+440,Shoes,Clothing,Budget,807.9
+441,Headphones,Electronics,Sound,306.26
+442,SQL,Books,Determine,680.37
+443,Camera,Electronics,Better,614.22
+444,Shoes,Clothing,Clear,220.92
+445,Shoes,Clothing,Give,447.96
+446,T Shirt,Clothing,Foot,148.61
+447,Camera,Electronics,Congress,358.02
+448,Data Science,Books,Agency,255.31
+449,Phone,Electronics,Much,604.01
+450,Chair,Home,Ahead,661.82
+451,Table,Home,Activity,514.43
+452,Data Science,Books,She,785.96
+453,Shoes,Clothing,Table,248.67
+454,Camera,Electronics,Walk,21.95
+455,Sofa,Home,Hope,862.21
+456,Data Science,Books,Save,181.04
+457,   PYTHON   ,Books,General,76.86
+458,   TABLE   ,Home,Successful,69.86
+459,Data Science,Books,Now,506.04
+460,AI,Books,Bill,91.6
+461,Jacket,Clothing,Image,88.23
+462,Jeans,Clothing,She,396.82
+463,Headphones,Electronics,Hit,732.66
+464,T Shirt,Clothing,Shake,925.38
+465,Monitor,Electronics,Then,64.48
+466,   T SHIRT   ,Clothing,Oil,145.84
+467,Phone,Electronics,Commercial,353.24
+468,Table,Home,Economic,752.28
+469,Chair,Home,Want,39.06
+470,Data Science,Books,Avoid,270.32
+471,Monitor,Electronics,Get,366.52
+472,SQL,Books,Film,262.56
+473,Camera,Electronics,Week,124.18
+474,Laptop,Electronics,Perhaps,22.17
+475,Monitor,Electronics,Daughter,921.02
+476,T Shirt,Clothing,Ready,914.81
+477,SQL,Books,Church,422.09
+478,Sofa,Home,Case,575.82
+479,Camera,Electronics,Effort,62.15
+480,T Shirt,Clothing,Return,78.24
+481,Data Science,Books,Government,317.59
+482,Camera,Electronics,But,375.23
+483,Sofa,Home,Without,250.16
+484,Lamp,Home,Poor,778.13
+485,   JEANS   ,Clothing,Degree,415.94
+486,Jacket,Clothing,Peace,696.53
+487,   HEADPHONES   ,Electronics,Standard,660.73
+488,Chair,Home,Water,983.28
+489,AI,Books,Politics,972.83
+490,Jacket,Clothing,Race,922.06
+491,Data Science,Books,Common,750.42
+492,Camera,Electronics,Make,821.76
+493,Camera,Electronics,Really,440.63
+494,Jeans,Clothing,Wrong,852.4
+495,Data Science,Books,Development,279.24
+496,Phone,Electronics,Station,772.45
+497,Phone,Electronics,Environmental,455.07
+498,Lamp,Home,Direction,364.7
+499,Shoes,Clothing,Clear,272.36
+500,Laptop,Electronics,Or,689.19
